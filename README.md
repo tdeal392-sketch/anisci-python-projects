@@ -1,2 +1,2 @@
-# -week1-broiler-checker
+# anisci-python-projects 
 python projects combining  Animal Science + Tech
